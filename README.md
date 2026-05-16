@@ -18,3 +18,11 @@ Built a dashboard to analyze booking trends, cancellation patterns, and operatio
 - Identified major cancellation reasons
 - Analyzed peak booking periods
 - Improved operational visibility using dashboards
+
+## Dashboard Preview
+
+![Cancellation Screenshot](Cancellation.png)
+![Ratings Screenshot](Ratings.png)
+![Revenue Screenshot](Revenue.png)
+![Vehicle Type Screenshot](VehicleType.png)
+![Overall Screenshot](overall.png)
